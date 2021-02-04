@@ -3,6 +3,7 @@ Some JavaScript code
 
 Here is the data structure to test directly.
 
+```
 // sorted A
 const accountBalanceHistory_1 = [
     {
@@ -90,3 +91,4 @@ const accountBalanceHistory_1 = [
       },
     }
   ]
+```
